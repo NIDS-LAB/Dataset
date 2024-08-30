@@ -25,7 +25,7 @@ data/
 ### References
 
 To explore more about the dataset and classification details, here are some useful links:
-* [CIC DDoS 2019 Dataset page](https://www.unb.ca/cic/datasets/ddos-2019.html).
+* [CIC DDoS 2019 Dataset page](https://www.unb.ca/cic/datasets/ddos-2019.html)
 * [FlowLens](https://www.ndss-symposium.org/ndss-paper/flowlens-enabling-efficient-flow-classification-for-ml-based-network-security-applications/)
 * [Hypervision](https://www.ndss-symposium.org/ndss-paper/detecting-unknown-encrypted-malicious-traffic-in-real-time-via-flow-interaction-graph-analysis/)
 
