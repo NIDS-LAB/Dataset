@@ -1,6 +1,6 @@
 # Deep Fingerprinting
 
-This repository contains a dataset for 95 websites, each with ~1,000.
+This repository contains a dataset for 95 websites, each with ~1000.
 
 ### Dataset Overview
 
