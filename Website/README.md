@@ -8,7 +8,7 @@ Due to the limitations of GitHub's storage capacity, the dataset has been upload
 
 ### Dataset Contents
 
-The dataset includes **~105k textfiles** representing **95 websites** with **~1000 traces**:
+The dataset includes **~105k text files** representing **95 websites** with **~1000 traces**:
 
 ```
 data/
