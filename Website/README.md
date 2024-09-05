@@ -8,14 +8,14 @@ Due to the limitations of GitHub's storage capacity, the dataset has been upload
 
 ### Dataset Contents
 
-The dataset includes **~105k text files** representing **95 websites** with **~1000 traces**:
+The dataset includes **~105k text files** representing traffic features for **95 websites** with **~1000 traces**:
 
 ```
 data/
-├── 0  // traffic features for website 0
-├── 0-1  // website 0
+├── 0  // website 0 - trace 0
+├── 0-1  // website 0 - trace 1
 ├── ...
-├── 0-1111  // webiste 0
+├── 0-999  // webiste 0 - trace 999
 ├── ...
 ├── ..
 ├── ..
