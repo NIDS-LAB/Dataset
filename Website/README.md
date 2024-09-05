@@ -12,15 +12,17 @@ The dataset includes **~105k text files** representing **95 websites** with **~1
 
 ```
 data/
-├── 0
-├── 0-1
+├── 0  // traffic features for website 0
+├── 0-1  // website 0
 ├── ...
-├── 0-1111
+├── 0-1111  // webiste 0
 ├── ...
 ├── ..
 ├── ..
-└── 94-*
+└── 94-*  // website 94
 ```
+* For each file, each row captures the features of a single packet in a two-column text format. The first column represents the timestamp, while the second column indicates the packet length, where +1 signifies outgoing packets and -1 denotes incoming packets.
+
 
 ### References
 
