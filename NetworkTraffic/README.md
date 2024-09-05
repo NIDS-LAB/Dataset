@@ -24,7 +24,7 @@ data/
 
 ### References
 
-To explore more about the dataset and useful tools for processing of the data, here are some useful links:
+Here are some useful links to explore more about the dataset and processing of the data:
 * [CIC DDoS 2019 Dataset page](https://www.unb.ca/cic/datasets/ddos-2019.html)
 * [Scapy](https://0xbharath.github.io/art-of-packet-crafting-with-scapy/network_recon/pcap_analysis/index.html)
 * [Extracting features from a pcap](https://medium.com/@ishankarunanayake/extracting-features-from-a-pcap-file-and-writing-to-csv-txt-using-python-c7630ac6322a)
